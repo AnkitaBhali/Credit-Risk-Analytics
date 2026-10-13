@@ -120,9 +120,9 @@ credit-risk-analytics/
 ├── powerbi/
 │   └── LOAN CREDIT.pbix
 └── images/
-    ├── credit.png
-    ├── borrower.png
-    └── business.png
+    ├── Portfolio_Overview.png
+    ├── Borrower_Analysis.png
+    └── Risk_Drivers.png
 
 
 
