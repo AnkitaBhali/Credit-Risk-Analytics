@@ -142,5 +142,8 @@ credit-risk-analytics/
 This project demonstrates my ability to analyze structured financial data using Excel, MySQL, and Power BI. It combines SQL-based investigation with interactive visualization to explore loan portfolio characteristics, default patterns, and potential credit-risk indicators.
 
 The project strengthened my practical skills in data analysis, reporting, and communicating insights for business decision-making.
+## 👩‍💻 Author
 
+**Ankita Bhali**
+GitHub: [@AnkitaBhali](https://github.com/AnkitaBhali)
 
